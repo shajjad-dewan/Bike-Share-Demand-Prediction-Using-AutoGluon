@@ -1,1 +1,3 @@
 # Bike-Share-Demand-Prediction-Using-AutoGluon
+This project is part of 'Machine Learning Fundamentals' course organized by Udacity.
+This project is done to predict bike sharing demand using AutoGluon. The data is extracted from Kaggle. The overal project is evaluated by submitting the prediction in kaggle competition regarding this dataset for three times. The first time by training the data as it is, the second time by creating some new features and changing some datatypes, the third time by tuning some hyperparameters of the model along with the previous change. Result shows that the last submission has performed better than other previous submission. This indicates that spending time on EDA and hyperparameter tuning gives more good result.
